@@ -1,0 +1,11 @@
+.icon
+{
+    float: left;
+    text-align: center;
+}
+.icon a
+{
+    border: 2px solid red;
+    padding: 7px;
+    border-radius: 100%;
+}
