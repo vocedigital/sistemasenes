@@ -1,5 +1,5 @@
 html { 
-    background: url(../images/bg_login.jpg) no-repeat center center fixed; 
+    background: url(nurse-holding-senior-man-s-hands-comfort.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -40,12 +40,11 @@ html {
     bottom: 0;
     margin: auto;
     width: 260px;
-    height: 200px;
+    height: 260px;
     border-radius: 5px;
     background: rgba(3,3,3,0.25);
     box-shadow: 1px 1px 50px #000;
     display: none;
-    padding: 20px 0;
   }
   
   .close-btn{
