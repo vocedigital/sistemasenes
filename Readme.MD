@@ -1,1 +1,1 @@
-SISTEMA DE CADASTRO SENES LIFE
+<h1 style="text-align: center;">SISTEMA INTRANET SENES LIFE</h1>
