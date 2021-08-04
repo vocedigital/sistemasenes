@@ -1,0 +1,19 @@
+html, section, div
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: #c5e7ee !important;
+}
+.icon
+{
+    float: left;
+    text-align: center;
+}
+svg
+{
+    width: 64px;
+    height: 64px;
+}

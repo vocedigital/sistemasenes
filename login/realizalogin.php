@@ -22,7 +22,7 @@ else
 
     $_SESSION['UsuarioNome'] = $resultado['nome'];
     
-    header('Location: ../administrativo/index.html');
+    header('Location: ../administrativo/index.php');
 
 }   
 
